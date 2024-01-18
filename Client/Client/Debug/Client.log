@@ -1,0 +1,66 @@
+﻿Build started 2022/5/23 0:40:04.
+     1>Project "E:\data_comunication_and_networking\Client\Client\Client.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Client.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         D:\New Folder (1)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Client.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Client.cpp
+         Client.cpp
+     1>e:\data_comunication_and_networking\client\client\client.cpp(96): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(107): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(113): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(120): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(138): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(167): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(178): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(184): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(206): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(217): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(226): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(249): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(260): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(268): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(304): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(319): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>e:\data_comunication_and_networking\client\client\client.cpp(330): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\new folder (1)\vc\include\stdio.h(304) : see declaration of 'scanf'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\New Folder (1)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\data_comunication_and_networking\Client\Debug\Client.exe" /INCREMENTAL /NOLOGO ws2_32.lib /MANIFEST /ManifestFile:"Debug\Client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\data_comunication_and_networking\Client\Debug\Client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\data_comunication_and_networking\Client\Debug\Client.lib" /MACHINE:X86 Debug\Client.exe.embed.manifest.res
+         Debug\Client.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1168: cannot open E:\data_comunication_and_networking\Client\Debug\Client.exe for writing
+     1>Done Building Project "E:\data_comunication_and_networking\Client\Client\Client.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:22.85

@@ -1,0 +1,229 @@
+﻿Build started 2022/5/18 10:10:31.
+     1>Project "E:\data_comunication_and_networking\Server\Server\Server.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\data_comunication_and_networking\Server\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\New Folder (1)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Server.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\New Folder (1)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Server.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Server.cpp
+         Server.cpp
+     1>Server.cpp(121): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 D:\New Folder (1)\VC\include\stdlib.h(867) : see declaration of 'itoa'
+     1>Server.cpp(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(136): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(155): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(198): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(207): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(228): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(231): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(235): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(262): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>Server.cpp(269): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(110) : see declaration of 'strcat'
+     1>Server.cpp(280): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(296): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(307): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(310): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(311): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(312): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(313): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(314): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(316): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(317): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(318): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(319): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(337): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(342): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(344): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(355): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(358): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(366): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(369): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(380): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(383): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(384): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(393): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(395): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(397): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(399): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(424): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(445): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(455): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(459): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(462): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(490): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(511): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(521): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(528): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(531): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(563): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(576): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(593): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(325): warning C4101: 'msg' : unreferenced local variable
+     1>Server.cpp(326): warning C4101: 'flag' : unreferenced local variable
+     1>Server.cpp(441): warning C4101: 'neww' : unreferenced local variable
+     1>Server.cpp(507): warning C4101: 'neww' : unreferenced local variable
+     1>Server.cpp(636): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(647): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(649): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(650): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(651): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(652): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(653): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(654): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(655): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(656): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(657): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(658): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(659): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(670): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(676): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(679): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(686): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(694): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(702): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(710): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(718): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Server.cpp(664): warning C4101: 'temp' : unreferenced local variable
+     1>Server.cpp(737): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Server.cpp(754): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(756): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(757): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(758): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(759): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(760): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(761): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(762): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(763): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(764): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Server.cpp(765): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Server.cpp(766): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\New Folder (1)\VC\include\string.h(105) : see declaration of 'strcpy'
+       Link:
+         D:\New Folder (1)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\data_comunication_and_networking\Server\Release\Server.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\data_comunication_and_networking\Server\Release\Server.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\data_comunication_and_networking\Server\Release\Server.lib" /MACHINE:X86 Release\Server.obj
+         Release\stdafx.obj
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__WSAStartup@8
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__WSAGetLastError@0
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__WSACleanup@0
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__htons@4
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__socket@12
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__bind@12
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__listen@8
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__accept@12
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__inet_ntoa@4
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__send@16
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__recv@16
+     1>Server.obj : error LNK2001: unresolved external symbol __imp__closesocket@4
+     1>E:\data_comunication_and_networking\Server\Release\Server.exe : fatal error LNK1120: 12 unresolved externals
+     1>Done Building Project "E:\data_comunication_and_networking\Server\Server\Server.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.18
