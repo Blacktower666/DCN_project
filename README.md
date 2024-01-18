@@ -1,0 +1,2 @@
+·	Created network programming codes and achieved LAN connectivity for the server using Socket
+·	Wrote codes of multi-threaded queries and adopted a multi-threaded parallel approach to handle concurrent requests; used thread pools to manage and schedule threads so that each student query request was assigned to a separate thread for processing in order to ensure the isolation and thread safety between concurrent requests
